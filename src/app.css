@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	@font-face {
+		font-family: 'Fairfax Pona HD';
+		src: url('fonts/FairfaxPonaHD.woff2') format('woff2'),
+			url('fonts/FairfaxPonaHD.woff') format('woff');
+		font-weight: 500;
+		font-style: normal;
+		font-display: swap;
+	}
+}
+
+@layer components {
+	.focus-outline {
+		@apply outline-none outline-2 outline-offset-2
+			focus-visible:outline-blue-500;
+	}
+
+	.link {
+		@apply focus-outline outline-offset-4 rounded
+			no-underline font-semibold text-blue-600 transition-colors
+			outline-none relative isolate
+
+			after:absolute after:-z-10 after:-inset-1 after:rounded-lg
+			after:bg-blue-500 after:opacity-0 hocus:after:opacity-20
+			after:transition-opacity;
+	}
+}

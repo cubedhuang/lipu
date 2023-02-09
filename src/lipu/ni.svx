@@ -1,0 +1,33 @@
+---
+title: ni
+date: 2023-02-08 EST
+description: lipu ni li lipu nanpa wan lon kulupu lipu mi.
+---
+
+<script lang="ts">
+	import Nanpa from '$lib/components/Nanpa.svelte';
+</script>
+
+# ni
+
+toki! lipu ni li lipu nanpa wan lon kulupu lipu mi. kama la, mi pali e lipu sin! lipu ni la, mi toki e ijo pi kulupu lipu ni.
+
+## tan seme?
+
+mi wile toki lon toki pona mute la, mi pali e ni. mi wile toki e ijo pi toki pona, e ijo mi, e ijo ante la, mi ken pana e ni tawa lipu!
+
+## kepeken seme?
+
+lipu ni li kepeken ilo [Svelte](https://svelte.dev/) kepeken ilo [SvelteKit](https://kit.svelte.dev/). ilo ni tu li pali e poki pi kulupu lipu. mi kepeken ni la, mi wile tenpo lili tawa sitelen.
+
+kin, mi kepeken ilo [Tailwind CSS](https://tailwindcss.com/) tawa lukin. mi kepeken ni la, mi ken pona e lukin pi lipu ni.
+
+sitelen la, mi kepeken ilo [mdsvex](https://mdsvex.com/). ni la, mi ken kepeken elen pi ilo SvelteKit lon ilo [Markdown](https://en.wikipedia.org/wiki/Markdown). o lukin e ni:
+
+<Nanpa />
+
+sina ken ante e nanpa ni! ni li tan elen pi ilo SvelteKit!
+
+## lon seme?
+
+jan ale li ken lukin e sitelen ilo pi lipu ni ale lon ma [GitHub](https://github.com/cubedhuang/lipu). mi pana e sitelen ilo ni tawa ilo [Cloudflare](https://www.cloudflare.com/). ilo ni li ken pana e lipu pona tawa jan ale!
