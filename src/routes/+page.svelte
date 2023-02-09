@@ -24,7 +24,7 @@
 					<h2 class="mb-1">{lipu.title}</h2>
 
 					<p class="my-1 text-sm text-gray-500">
-						{new Date(lipu.date ?? 0).toLocaleDateString()}
+						{lipu.date}
 					</p>
 
 					<p class="my-0">{lipu.description}</p>
