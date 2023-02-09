@@ -28,4 +28,13 @@
 			after:bg-blue-500 after:opacity-0 hocus:after:opacity-20
 			after:transition-opacity;
 	}
+
+	.sitelen-pona {
+		@apply font-pona text-xl;
+	}
+
+	.sitelen-pona p {
+		/* act like a normal paragraph despite larger size */
+		@apply my-5;
+	}
 }

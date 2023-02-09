@@ -6,7 +6,7 @@
 	class="not-prose flex w-fit rounded-lg bg-gray-50 shadow border border-gray-200"
 >
 	<button
-		class="z-10 px-2 font-pona text-2xl focus-outline rounded-lg hover:bg-gray-100 transition-colors"
+		class="z-10 px-2 sitelen-pona focus-outline rounded-lg hover:bg-gray-100 transition-colors"
 		on:click={() => count--}
 	>
 		lili
@@ -19,7 +19,7 @@
 	</p>
 
 	<button
-		class="px-2 font-pona text-2xl focus-outline rounded-lg hover:bg-gray-100 transition-colors"
+		class="px-2 sitelen-pona focus-outline rounded-lg hover:bg-gray-100 transition-colors"
 		on:click={() => count++}
 	>
 		suli
