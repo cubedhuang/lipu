@@ -6,10 +6,7 @@
 	export let data: PageData;
 </script>
 
-<Meta
-	title="lipu tan ijo Tani"
-	description="ni li kulupu pi lipu tan ijo Tani!"
-/>
+<Meta title="lipu tan ijo Tani" description="ni li kulupu lipu tan ijo Tani!" />
 
 <div class="mt-16 mx-auto prose">
 	<h1>lipu tan ijo Tani!</h1>
