@@ -1,16 +1,16 @@
 import adapter from '@sveltejs/adapter-auto';
 import { vitePreprocess } from '@sveltejs/kit/vite';
 import { mdsvex } from 'mdsvex';
+import slug from 'rehype-slug';
+import containers from 'remark-containers';
+import gfm from 'remark-gfm';
 
 const mdsvexPreprocess = mdsvex({
 	layout: {
 		_: './src/lib/components/Meta.svelte'
 	},
-	rehypePlugins: [await import('rehype-slug')],
-	remarkPlugins: [
-		await import('remark-containers'),
-		await import('remark-gfm')
-	]
+	rehypePlugins: [slug],
+	remarkPlugins: [containers, gfm]
 });
 
 /** @type {import('@sveltejs/kit').Config} */
