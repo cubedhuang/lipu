@@ -12,14 +12,10 @@
 	<title>{title}</title>
 	<meta name="og:title" content={title} />
 
-	{#if description}
-		<meta name="description" content={description} />
-		<meta name="og:description" content={description} />
-	{/if}
+	<meta name="description" content={description} />
+	<meta name="og:description" content={description} />
 
-	{#if date}
-		<meta name="article:published_time" content={date} />
-	{/if}
+	<meta name="article:published_time" content={date} />
 
 	<meta name="og:type" content="website" />
 	<meta name="og:site_name" content="lipu" />

@@ -20,9 +20,7 @@ export const load = (async () => {
 
 	return {
 		lipu: lipu.sort(
-			(a, b) =>
-				new Date(a.date ?? 0).getTime() -
-				new Date(b.date ?? 0).getTime()
+			(a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
 		)
 	};
 }) satisfies PageServerLoad;

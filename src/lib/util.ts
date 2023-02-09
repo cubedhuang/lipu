@@ -8,7 +8,7 @@ export interface MdsvexFile {
 
 export interface LipuData {
 	slug: string;
-	title?: string;
-	date?: string;
-	description?: string;
+	title: string;
+	date: string;
+	description: string;
 }
