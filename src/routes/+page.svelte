@@ -1,18 +1,11 @@
 <script lang="ts">
 	import type { PageData } from './$types';
 
+	import { formatDate } from '$lib/util';
+
 	import Meta from '$lib/components/Meta.svelte';
 
 	export let data: PageData;
-
-	function formatDate(value: string) {
-		const date = new Date(value);
-		const year = date.getUTCFullYear();
-		const month = `${date.getUTCMonth() + 1}`.padStart(2, '0');
-		const day = `${date.getUTCDate()}`.padStart(2, '0');
-
-		return `${year}/${month}/${day}`;
-	}
 </script>
 
 <Meta title="lipu tan ijo Tani" description="ni li kulupu lipu tan ijo Tani!" />

@@ -8,8 +8,6 @@ description: lipu ni li lipu nanpa wan lon kulupu lipu mi.
 	import Nanpa from '$lib/components/Nanpa.svelte';
 </script>
 
-# ni
-
 toki! lipu ni li lipu nanpa wan lon kulupu lipu mi. kama la, mi pali e lipu sin! lipu ni la, mi toki e ijo pi kulupu lipu ni.
 
 ## tan seme?

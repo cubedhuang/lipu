@@ -5,8 +5,6 @@ description: 'mi toki e tan ni: sina o toki alasa pona taso'
 draft: true
 ---
 
-# o alasa pona taso
-
 tenpo weka lili la, mi lukin e [lipu ni](https://dontasktoask.com/). jan wan li wile toki pona e ni [lon ni](https://github.com/maunium/dontasktoask.com/pull/121). mi toki e mute tawa lipu ona. taso, mi wile ala pana e lipu sin tawa lipu tan. ni la, mi toki e sama lon ni:
 
 tenpo mute la, mi lukin e tomo toki lon ma ilo. mi ni la, jan wan li kama tawa ma li wile sona e ijo li toki e ijo sama ni:
@@ -21,4 +19,4 @@ taso, jan li sona pona e ijo lon ilo Java la, ona li ken wile ala pona e sina ta
 
 <!-- You're asking people to take responsibility. You're questioning people's confidence in their abilities. You're also unnecessarily walling other people out. I often answer questions related to languages or libraries I have never used, because the answers are (in a programmer kind of way) common sense. -->
 
-sina alasa
+jan ante li wile pona e sina la, ona o pana e sona pona tawa sina. ona o kepeken tenpo mute tawa sina. sina toki e ni: wawa ona li ken pona ala.

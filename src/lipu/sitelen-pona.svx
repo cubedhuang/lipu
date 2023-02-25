@@ -4,8 +4,6 @@ date: 2023-02-09
 description: mi toki e pilin mi tan sitelen pona.
 ---
 
-# sitelen pona
-
 ::: div sitelen-pona
 toki a.
 
