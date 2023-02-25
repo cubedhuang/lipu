@@ -66,7 +66,7 @@ toki Inli la, ni li sama &laquo;_the bird resisted eating the mess_&raquo;.
 
 ### nasin nanpa tu
 
-sina kepeken nasin nanpa wan la, sina wile kepeken nasin nanpa tu. ni la, tu ni li sama:
+sina kepeken nasin nanpa wan ala la, o kepeken nasin nanpa tu. ni la, tu ni li sama:
 
 > A li B ta C (e D).
 
@@ -90,7 +90,7 @@ nimi ni li pona tan mute.
 
 ### ona li wawa
 
-sina ken toki mute mute kepeken nimi &laquo;ta&raquo;. sina kepeken nimi &laquo;ta&raquo; lon toki la, sina ken lili e toki. taso, sina kon li sama. wan la, mi sitelen e lipu lon tenpo poka. mi kepeken nimi &laquo;ta&raquo; lon ni:
+sina ken toki mute mute kepeken nimi &laquo;ta&raquo;. sina kepeken nimi &laquo;ta&raquo; lon toki la, sina ken lili e toki. taso, kon sina li awen sama. wan la, mi sitelen e lipu lon tenpo poka. mi kepeken nimi &laquo;ta&raquo; lon ni:
 
 > sina **pilin ta** alasa e lili tan jan ante la, sina **lon ta** alasa e mute tan jan ante.
 
