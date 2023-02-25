@@ -11,4 +11,5 @@ export interface LipuData {
 	title: string;
 	date: string;
 	description: string;
+	draft?: boolean;
 }

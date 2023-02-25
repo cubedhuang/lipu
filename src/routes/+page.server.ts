@@ -1,4 +1,4 @@
-import { getSlugFromPath, type LipuData, type MdsvexFile } from '../lib/util';
+import { getSlugFromPath, type LipuData, type MdsvexFile } from '$lib/util';
 import type { PageServerLoad } from './$types';
 
 // Simplified implementation from:
@@ -9,14 +9,14 @@ export const load = (async () => {
 
 	const lipu = await Promise.all(
 		Object.entries(modules).map(async ([path, resolver]) => {
-			const post = await resolver();
+			const post = (await resolver()) as MdsvexFile;
 
 			return {
 				slug: getSlugFromPath(path),
-				...(post as MdsvexFile).metadata
+				...post.metadata
 			} as LipuData;
 		})
-	);
+	).then(lipu => lipu.filter(post => !post.draft));
 
 	return {
 		lipu: lipu.sort(

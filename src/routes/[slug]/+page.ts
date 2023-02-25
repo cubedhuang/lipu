@@ -1,6 +1,8 @@
 import { error } from '@sveltejs/kit';
-import { getSlugFromPath, type MdsvexFile } from '../../lib/util';
+import { dev } from '$app/environment';
 import type { PageLoad } from './$types';
+
+import { getSlugFromPath, type MdsvexFile } from '$lib/util';
 
 export const load = (async ({ params }) => {
 	const modules = import.meta.glob('/src/lipu/*.svx');
@@ -11,11 +13,15 @@ export const load = (async ({ params }) => {
 		if (slug === params.slug) {
 			const post = (await resolver()) as MdsvexFile;
 
+			if (!dev && post.metadata.draft) {
+				throw error(404, 'Page not found');
+			}
+
 			return {
 				component: post.default,
 				metadata: {
 					slug,
-					...(post as MdsvexFile).metadata
+					...post.metadata
 				}
 			};
 		}
