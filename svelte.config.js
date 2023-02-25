@@ -10,7 +10,7 @@ const mdsvexPreprocess = mdsvex({
 		_: './src/lib/components/Meta.svelte'
 	},
 	rehypePlugins: [slug],
-	remarkPlugins: [containers, gfm]
+	remarkPlugins: [gfm, containers]
 });
 
 /** @type {import('@sveltejs/kit').Config} */
