@@ -4,7 +4,7 @@
 	export let data: PageData;
 </script>
 
-<nav class="mt-8 mx-auto max-w-prose">
+<nav class="mt-12 mx-auto max-w-prose">
 	<a href="/" class="link">lipu ale</a>
 </nav>
 
