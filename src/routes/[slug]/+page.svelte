@@ -10,9 +10,9 @@
 
 <main
 	class="mt-8 mb-20 mx-auto
-	prose prose-blue prose-a:link
-	prose-blockquote:font-normal prose-blockquote:not-italic
-	prose-p:before:content-none prose-p:after:content-none"
+		prose prose-blue prose-a:link
+		prose-blockquote:font-normal prose-blockquote:not-italic
+		prose-p:before:content-none prose-p:after:content-none"
 >
 	<svelte:component this={data.component} />
 </main>
