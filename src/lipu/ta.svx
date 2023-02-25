@@ -1,0 +1,117 @@
+---
+title: nimi ta
+date: 2023-02-25
+description: nimi ta li pona mute tawa mi.
+---
+
+# nimi ta
+
+mi kama sona e nimi &laquo;ta&raquo; lon **kama sona**. nimi ni li kama pali tan **pilin Powa**. tenpo ni<sup>1</sup> la, mi pilin e ni: a, nimi ni li nasa mute a. taso, mi lukin mute e nimi ta la, ona li kama pona pona tawa mi.
+
+taso, mi wile toki e pona lon nimi &laquo;ta&raquo; la, mi wile toki e kon tawa sina. mi wile e ni: sina lukin e lipu ni la, sina kama sona kepeken nimi &laquo;ta&raquo; lon tenpo poka!
+
+## nimi ta li seme?
+
+nimi &laquo;ta&raquo; li nimi linja, sama nimi &laquo;li&raquo; sama nimi &laquo;e&raquo;. nimi li tawa seme? o lukin e toki ni:
+
+> soweli li kama suli.
+
+toki Inli la, nimi &laquo;kama&raquo; li nimi &laquo;preverb&raquo;. ona li ante e kon toki. nimi &laquo;ta&raquo; li ken ante e nimi kon ale tawa nimi sama &laquo;kama&raquo; sama &laquo;wile&raquo; sama nimi ni ante. sina o kepeken nimi &laquo;ta&raquo; lon ni:
+
+> ona li **pakala ta** pali e tomo.
+
+> waso li **utala ta** moku e jaki.
+
+ni la, &laquo;_soweli li kama suli_&raquo; li sama &laquo;_soweli li kama ta suli_&raquo;. taso, nimi &laquo;ta&raquo; li ante seme e toki? nasin tu li lon.
+
+### nasin seme?
+
+nimi ante li ken kepeken nasin ante. sina wile sona e nasin la, o lukin e toki tu ni:
+
+> ijo li **nimi**.
+
+> ijo li **nimi** e ijo.
+
+o alasa toki e tu ni kepeken nimi sina. kon pi toki tu li sama la, o kepeken nasin nanpa wan. ante la, o kepeken nasin nanpa tu.
+
+wan la, mi alasa e nimi tu.
+
+#### utala
+
+&laquo;_mi utala_&raquo; en &laquo;_mi utala e ijo_&raquo; li sama lon tenpo mute mute. ni la, mi kepeken nasin nanpa wan.
+
+#### nasa
+
+&laquo;_mi nasa_&raquo; en &laquo;_mi nasa e ijo_&raquo; li sama ala. ni la, mi kepeken nasin nanpa tu.
+
+### nasin nanpa wan
+
+nasin nanpa wan la, tu ni li sama:
+
+> A li B ta C (e D).
+
+> A li B e [A li C (e D)].
+
+ni la, sina ken ante e ni:
+
+> waso li **utala ta** moku e jaki.
+
+tawa ni:
+
+> waso li **utala** e [waso li moku e jaki].
+>
+> waso li **utala** e ni: waso li moku e jaki.
+
+toki Inli la, ni li sama &laquo;_the bird resisted eating the mess_&raquo;.
+
+### nasin nanpa tu
+
+sina kepeken nasin nanpa wan la, sina wile kepeken nasin nanpa tu. ni la, tu ni li sama:
+
+> A li B ta C (e D).
+
+> [A li C (e D)] li B.
+
+ni la, sina ken ante e ni:
+
+> mi **nasa ta** pali e tomo.
+
+tawa ni:
+
+> [mi pali e tomo] li **nasa**.
+>
+> ni li **nasa**: mi pali e tomo.
+
+toki Inli la, ni li sama &laquo;_me building a house is unusual_&raquo; anu sama &laquo;_I'm not used to building a house_&raquo;.
+
+## nimi ta li pona tan seme?
+
+nimi ni li pona tan mute.
+
+### ona li wawa
+
+sina ken toki mute mute kepeken nimi &laquo;ta&raquo;. sina kepeken e nimi &laquo;ta&raquo; lon toki la, sina ken lili e toki. taso, sina kon li sama. wan la, mi sitelen e lipu lon tenpo poka. mi kepeken nimi &laquo;ta&raquo; lon ni:
+
+> sina **pilin ta** alasa e lili tan jan ante la, sina **lon ta** alasa e mute tan jan ante.
+
+mi kepeken nimi &laquo;ta&raquo; ala la, mi wile kepeken nimi mute tawa toki sama.
+
+### ona li musi
+
+sina kepeken nimi mute la, sina ken pali e toki suli musi. o lukin e ni:
+
+> waso li **open ken toki pilin wile ta** moku e suwi.
+
+> waso li **open** e [[waso li **toki** e [waso li **pilin** e [waso li **wile** e [waso li moku e suwi.]]]] li ken]
+>
+> waso li **open** e ni: ni li **ken**: waso li **toki** e ni: waso li **pilin** e ni: waso li **wile** e ni: waso li moku e suwi.
+
+toki Inli la, ni li sama &laquo;_the bird began to be able to say that it believes that it wants to eat the sweets_&raquo;.
+
+### ona li pona
+
+nasin pi nimi &laquo;ta&raquo; li pona. nasin tu taso li lon. ale li ken kama sona kepeken nimi &laquo;ta&raquo; lon tenpo lili.
+
+---
+
+<sup>1</sup> mi wile kepeken ala e nimi &laquo;tenpo ni&raquo; tawa tenpo lon. nimi lon tenpo wan ni li sama &laquo;tenpo pi lukin mi&raquo;.
