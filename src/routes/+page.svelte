@@ -24,7 +24,7 @@
 
 <ul class="mt-8 mb-20 mx-auto max-w-prose grid sm:grid-cols-2 gap-4">
 	{#each data.lipu as lipu}
-		<a href="/lipu/{lipu.slug}" class="rounded-lg focus-outline">
+		<a href="/{lipu.slug}" class="rounded-lg focus-outline">
 			<li
 				class="h-full p-6 rounded-lg bg-gray-50 shadow border border-gray-200
 					hover:shadow-lg hover:scale-[1.02] transition"

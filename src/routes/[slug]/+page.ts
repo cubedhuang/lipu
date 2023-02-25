@@ -1,5 +1,5 @@
 import { error } from '@sveltejs/kit';
-import { getSlugFromPath, type MdsvexFile } from '../../../lib/util';
+import { getSlugFromPath, type MdsvexFile } from '../../lib/util';
 import type { PageLoad } from './$types';
 
 export const load = (async ({ params }) => {
