@@ -2,21 +2,34 @@
 title: o alasa pona taso
 date: 2023-02-25
 description: 'mi toki e tan ni: sina o toki alasa pona taso'
-draft: true
 ---
-
-tenpo weka lili la, mi lukin e [lipu ni](https://dontasktoask.com/). jan wan li wile toki pona e ni [lon ni](https://github.com/maunium/dontasktoask.com/pull/121). mi toki e mute tawa lipu ona. taso, mi wile ala pana e lipu sin tawa lipu tan. ni la, mi toki e sama lon ni:
 
 tenpo mute la, mi lukin e tomo toki lon ma ilo. mi ni la, jan wan li kama tawa ma li wile sona e ijo li toki e ijo sama ni:
 
-> jan lon ma ni li sona ala sona pona e ijo pi ilo Java?
+> jan lon ma ni li sona ala sona pona e ijo lon ilo Java?
 
-ni li ike mute. jan li lon [ta](ta) toki e ni:
+ni li ike mute. jan li lon [ta](/ta) toki e ni:
 
-> mi wile e ni: jan pana e sona pona tawa mi a! jan pi ilo Java li wile ala wile lukin e wile mi? taso, sina sona ala e wile mi. ken la, ijo li kepeken ilo Java ala. ken la, jan li ken sona ala e ijo lon ilo Java li ken kin a pana e sona pona tawa wile mi.
+> mi wile e ni: jan li pana e sona pona tawa mi a! jan pi ilo Java li wile ala wile lukin e wile mi? taso, sina sona ala e wile mi. ken la, ijo li kepeken ilo Java ala. ken la, jan li ken sona ala e ijo lon ilo Java li ken, kin a, pana e sona pona tawa wile mi.
 
-taso, jan li sona pona e ijo lon ilo Java la, ona li ken wile ala pona e sina tan mute mute. sina pilin ta alasa e lili tan jan ante la, sina lon ta alasa e mute tan jan ante.
+taso, jan li sona pona e ijo lon ilo Java la, ona li ken wile ala pona e sina tan mute mute. sina pilin ta alasa e lili tan jan ante la, sina lon ta alasa e mute tan ona.
 
-<!-- You're asking people to take responsibility. You're questioning people's confidence in their abilities. You're also unnecessarily walling other people out. I often answer questions related to languages or libraries I have never used, because the answers are (in a programmer kind of way) common sense. -->
+-   jan ante li toki ta wile pona e sina la, ona o pana e sona pona tawa sina. taso, ni la, ona o kepeken tenpo mute tawa ni.
+-   sina toki e ni: wawa pi jan mute li ken pona ala.
+-   kin, sina ni: jan pi sona ala pi ilo Java li ken ala pona e sina. taso, jan mute li ken sona pi pona ala e ilo Java li ken kin pana e sona pona tawa sina. wile mute li ken kama pini tan sona pi jan ilo mute.
 
-jan ante li wile pona e sina la, ona o pana e sona pona tawa sina. ona o kepeken tenpo mute tawa sina. sina toki e ni: wawa ona li ken pona ala.
+ante la, jan ante li ken lukin e wile sina li ken pilin e ni:
+
+> mi wile sona e ijo lon ilo Java. taso, mi wile ala toki pona e wile mi. mi toki pona e wile mi lon ni taso: jan lon ma ni li ken pana e sona pona tawa mi.
+
+...taso, sina wile ala pona e sina lon sina taso la, jan ante li wile pona e sina tan seme?
+
+nasin pona li ni: **o alasa pona taso**! jan ante mute li lukin lili taso e ma. sina alasa ike la, ona li wile ala pana e sona tawa sina. taso, sina alasa pona la, alasa sina li ken pona tawa ona. ni la, ona li wile pana e sona pona a.
+
+ni ale la, o ante e toki sina tan &laquo;_jan li sona pona e ilo Java la, ona li lon ala lon?_&raquo; tawa &laquo;_[wile sina] li pakala. nasin seme la mi ken pona e ni? [sona ante]_&raquo;.
+
+---
+
+mi sitelen e lipu ni tan [lipu ni lon toki Inli](https://dontasktoask.com/).
+
+jan wan li wile toki pona e ni lon [wile sin ni](https://github.com/maunium/dontasktoask.com/pull/121). mi toki e mute tawa nasin ona. taso, mi wile ala pana e lipu sin tawa lipu tan. ni la, mi toki e sama lon lipu ni.
