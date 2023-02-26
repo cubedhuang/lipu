@@ -2,7 +2,7 @@ import { error } from '@sveltejs/kit';
 import { dev } from '$app/environment';
 import type { PageLoad } from './$types';
 
-import { getSlugFromPath, type MdsvexFile } from '$lib/util';
+import { getSlugFromPath, type LipuData, type MdsvexFile } from '$lib/util';
 
 export const load = (async ({ params }) => {
 	const modules = import.meta.glob('/src/lipu/*.svx');
@@ -22,10 +22,10 @@ export const load = (async ({ params }) => {
 				metadata: {
 					slug,
 					...post.metadata
-				}
+				} as LipuData
 			};
 		}
 	}
 
 	throw error(404, 'Page not found');
-}) as PageLoad;
+}) satisfies PageLoad;
