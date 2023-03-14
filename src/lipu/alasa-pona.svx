@@ -1,7 +1,7 @@
 ---
 title: o alasa pona taso
 date: 2023-02-25
-description: 'mi toki e tan ni: sina o toki alasa pona taso'
+description: 'mi toki e tan ni: sina o toki alasa pona taso.'
 ---
 
 tenpo mute la, mi lukin e tomo toki lon ma ilo. mi ni la, jan wan li kama tawa ma li wile sona e ijo li toki e ijo sama ni:
