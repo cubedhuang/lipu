@@ -11,9 +11,9 @@
 
 	{#if $page.status === 404}
 		<p>lipu ni li lon ala a!</p>
-
-		<p>ken la sina wile tawa <a href="/">ma kulupu</a>.</p>
 	{:else}
 		<p>mi pakala a! mi sona ala e ni: seme li kama pakala.</p>
 	{/if}
+
+	<p>ken la sina wile tawa <a href="/">ma kulupu</a>.</p>
 </div>
