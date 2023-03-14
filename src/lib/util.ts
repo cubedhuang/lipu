@@ -11,7 +11,7 @@ export const getSlugFromPath = (path: string) =>
 	path.match(/([\w-]+)\.(svelte\.md|md|svx)/i)?.[1] ?? null;
 
 export interface MdsvexFile {
-	default: import('svelte/internal').SvelteComponent;
+	default: typeof import('svelte').SvelteComponent;
 	metadata: Record<string, string>;
 }
 

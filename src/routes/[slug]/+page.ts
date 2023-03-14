@@ -1,5 +1,4 @@
 import { error } from '@sveltejs/kit';
-import type { SvelteComponent } from 'svelte';
 import { dev } from '$app/environment';
 import type { PageLoad } from './$types';
 
@@ -19,7 +18,7 @@ export const load = (async ({ params }) => {
 			}
 
 			return {
-				component: post.default as unknown as typeof SvelteComponent,
+				component: post.default,
 				metadata: {
 					slug,
 					...post.metadata
