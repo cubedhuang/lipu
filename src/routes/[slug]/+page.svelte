@@ -6,7 +6,7 @@
 	export let data: PageData;
 </script>
 
-<nav class="mt-12 mx-auto max-w-prose">
+<nav class="mt-12 mx-auto max-w-prose print:hidden">
 	<a href="/" class="link">lipu ale</a>
 </nav>
 
