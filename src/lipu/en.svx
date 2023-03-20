@@ -1,0 +1,19 @@
+---
+title: nimi en
+date: 2023-3-20
+description: nimi en o ken wan e toki tu.
+---
+
+lipu ni li lili.
+
+mi pilin e ni: nimi &laquo;en&raquo; o ken wan e toki tu. wan la, toki ni tu o ken lon:
+
+> kon li tawa. telo li lete.
+>
+> kon li tawa **en** telo li lete.
+
+mi sona e ni: toki li ken kepeken nimi &laquo;li&raquo; mute li ken kepeken nimi &laquo;e&raquo; mute lon toki wan. nimi ni mute lon toki wan li ken ni:
+
+> kon ni [li lete e waso] [li tawa e lipu kasi].
+
+nimi &laquo;lete&raquo; en nimi &laquo;tawa&raquo; li ante e ijo ante. sama la, nimi &laquo;en&raquo; o ken ni kin.
