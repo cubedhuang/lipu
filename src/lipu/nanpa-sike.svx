@@ -1,0 +1,24 @@
+---
+title: nanpa sike li tu tu
+date: 2023-4-1
+description: 'mi toki e ni: nanpa sike li tu tu'
+draft: true
+---
+
+<script lang="ts">
+	import FakeCircle from '$lib/components/FakeCircle.svelte';
+</script>
+
+tenpo mute la, mute li toki li alasa e nanpa sike. nanpa sike li seme? nanpa sike li toki e ni: sike la, suli tawa insa seme li pali e suli selo?
+
+lipu ni la, mi toki e ni: tan seme la nanpa sike li tu tu?
+
+## leko
+
+mi sitelen e leko lon selo sike. suli pi selo leko ni li suli insa tu tu.
+
+<FakeCircle n={1} />
+
+<FakeCircle n={2} />
+<FakeCircle n={3} />
+<FakeCircle n={4} />

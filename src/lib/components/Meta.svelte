@@ -6,10 +6,16 @@
 
 	/** @type {string | undefined} */
 	export let date = undefined;
+
+	/** @type {boolean} */
+	export let draft = false;
 </script>
 
 <svelte:head>
-	<title>{title}</title>
+	<title>
+		{draft ? 'pini ala | ' : ''}
+		{title}
+	</title>
 	<meta name="og:title" content={title} />
 
 	{#if description}
