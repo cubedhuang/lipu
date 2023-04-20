@@ -16,7 +16,7 @@ mi wile toki lon toki pona mute la, mi pali e ni. mi wile toki e ijo pi toki pon
 
 ## kepeken seme?
 
-lipu ni li kepeken ilo [Svelte](https://svelte.dev/) kepeken ilo [SvelteKit](https://kit.svelte.dev/). ilo ni tu li pali e poki pi kulupu lipu. mi kepeken ni la, mi wile tenpo lili tawa sitelen.
+lipu ni li kepeken ilo [Svelte](https://svelte.dev/) kepeken ilo [SvelteKit](https://kit.svelte.dev/). ilo ni tu li pali e poki pi kulupu lipu. mi kepeken ni la, mi e wile tenpo lili tawa sitelen.
 
 kin, mi kepeken ilo [Tailwind CSS](https://tailwindcss.com/) tawa lukin. mi kepeken ni la, mi ken pona e lukin pi lipu ni.
 
