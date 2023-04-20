@@ -19,8 +19,8 @@
 	{#each data.lipu as lipu}
 		<a href="/{lipu.slug}" class="rounded-lg focus-outline">
 			<li
-				class="h-full p-6 rounded-lg bg-gray-50 shadow border border-gray-200
-					hover:shadow-lg hover:scale-[1.02] transition"
+				class="h-full p-6 rounded-lg bg-white shadow border border-gray-200
+					hover:shadow-lg transition"
 			>
 				<article class="prose">
 					<h2 class="mb-1">{lipu.title}</h2>
