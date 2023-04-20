@@ -2,6 +2,7 @@
 title: nimi meso
 date: 2023-4-20
 description: 'kepeken pi nimi meso li ike tawa mi.'
+draft: true
 ---
 
 jan mute li toki e ni:
