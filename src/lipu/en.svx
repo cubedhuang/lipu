@@ -20,7 +20,7 @@ mi sona e ni: toki li ken kepeken nimi &laquo;li&raquo; mute li ken kepeken nimi
 
 nimi &laquo;lete&raquo; en nimi &laquo;tawa&raquo; li ante e ijo ante. sama la, nimi &laquo;en&raquo; o ken ni kin.
 
-## kepeken
+## ona li pona kepeken
 
 tenpo mute la, mi kepeken nimi &laquo;la&raquo; la mi wile toki ijo tu lon pini. nimi &laquo;en&raquo; li ken ala wan e toki tu la, mi o toki e ni:
 
@@ -30,4 +30,4 @@ tenpo mute la, mi kepeken nimi &laquo;la&raquo; la mi wile toki ijo tu lon pini.
 
 taso, mi pilin e ni: ni li nasa a. nasin ante la, nasin &laquo;en&raquo; li pona:
 
-> seli pakala li lon tomo ale la, tomo li kama pakala en jan pi tomo ni li ike pilin a.
+> seli pakala li lon tomo ale la, tomo li kama pakala **en** jan pi tomo ni li ike pilin a.
