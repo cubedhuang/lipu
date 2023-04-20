@@ -4,9 +4,11 @@ date: 2023-3-20
 description: nimi en o ken wan e toki tu.
 ---
 
-lipu ni li lili.
+mi pilin e ni: nimi &laquo;en&raquo; o ken wan e toki tu.
 
-mi pilin e ni: nimi &laquo;en&raquo; o ken wan e toki tu. wan la, toki ni tu o ken lon:
+## nasin kon
+
+toki ni tu o ken lon:
 
 > kon li tawa. telo li lete.
 >
@@ -17,3 +19,15 @@ mi sona e ni: toki li ken kepeken nimi &laquo;li&raquo; mute li ken kepeken nimi
 > kon ni [li lete e waso] [li tawa e lipu kasi].
 
 nimi &laquo;lete&raquo; en nimi &laquo;tawa&raquo; li ante e ijo ante. sama la, nimi &laquo;en&raquo; o ken ni kin.
+
+## kepeken
+
+tenpo mute la, mi kepeken nimi &laquo;la&raquo; la mi wile toki ijo tu lon pini. nimi &laquo;en&raquo; li ken ala wan e toki tu la, mi o toki e ni:
+
+> seli pakala li lon tomo ale la, tomo li kama pakala. sama la, jan pi tomo ni li ike pilin a.
+
+&laquo;sama la&raquo; li ken kin &laquo;kin&raquo;.
+
+taso, mi pilin e ni: ni li nasa a. nasin ante la, nasin &laquo;en&raquo; li pona:
+
+> seli pakala li lon tomo ale la, tomo li kama pakala en jan pi tomo ni li ike pilin a.
