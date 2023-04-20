@@ -12,7 +12,10 @@
 
 <div class="mt-16 mx-auto prose">
 	<h1>lipu tan ijo Tani!</h1>
-	<p>kulupu lipu ni la, mi sitelen e ijo sona mi.</p>
+	<p>
+		kulupu lipu ni la, mi sitelen e ijo sona mi. o lukin e
+		<a href="/ni" class="link">sona pi lipu ni</a>!
+	</p>
 </div>
 
 <ul class="mt-8 mb-20 mx-auto max-w-prose grid sm:grid-cols-2 gap-4">
