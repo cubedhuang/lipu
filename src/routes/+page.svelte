@@ -8,10 +8,10 @@
 	export let data: PageData;
 </script>
 
-<Meta title="lipu tan ijo Tani" description="ni li kulupu lipu tan ijo Tani!" />
+<Meta title="lipu pi ijo Tani" description="ni li kulupu lipu pi ijo Tani!" />
 
 <div class="mt-16 mx-auto prose">
-	<h1>lipu tan ijo Tani!</h1>
+	<h1>lipu pi ijo Tani!</h1>
 	<p>
 		kulupu lipu ni la, mi sitelen e ijo sona mi. o lukin e
 		<a href="/ni" class="link">sona pi lipu ni</a>!
