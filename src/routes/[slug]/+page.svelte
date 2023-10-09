@@ -17,7 +17,7 @@
 		prose-p:before:content-none prose-p:after:content-none"
 >
 	<h1 class="mb-0">{data.metadata.title}</h1>
-	<p class="mt-0">{formatDate(data.metadata.date)}</p>
+	<p class="mt-2 text-sm">{formatDate(data.metadata.date)}</p>
 
 	<svelte:component this={data.component} />
 </main>
