@@ -1,16 +1,9 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss/base';
+@import './fonts.pcss';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
 @layer base {
-	@font-face {
-		font-family: 'pona';
-		src: url('fonts/linjalipamanka-normal.woff') format('woff');
-		font-weight: normal;
-		font-style: normal;
-		font-display: swap;
-	}
-
 	html,
 	body {
 		@apply bg-gray-50;
