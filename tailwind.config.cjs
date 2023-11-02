@@ -7,11 +7,7 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				pona: [
-					'"Fairfax Pona HD"',
-					'Inter',
-					...defaultTheme.fontFamily.sans
-				],
+				pona: ['"pona"', 'Inter', ...defaultTheme.fontFamily.sans],
 				sans: ['Inter', ...defaultTheme.fontFamily.sans]
 			}
 		}

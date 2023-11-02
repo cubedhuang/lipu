@@ -4,9 +4,7 @@ date: 2023-02-08
 description: lipu ni li lipu nanpa wan lon kulupu lipu mi.
 ---
 
-<script lang="ts">
-	import Nanpa from '$lib/components/Nanpa.svelte';
-</script>
+<script lang="ts">import Nanpa from '$lib/components/Nanpa.svelte';</script>
 
 toki! lipu ni li lipu nanpa wan lon kulupu lipu mi. kama la, mi pali e lipu sin! lipu ni la, mi toki e ijo pi kulupu lipu ni.
 
@@ -20,11 +18,13 @@ lipu ni li kepeken ilo [Svelte](https://svelte.dev/) kepeken ilo [SvelteKit](htt
 
 kin, mi kepeken ilo [Tailwind CSS](https://tailwindcss.com/) tawa lukin. mi kepeken ni la, mi ken pona e lukin pi lipu ni.
 
-sitelen la, mi kepeken ilo [mdsvex](https://mdsvex.com/). ni la, mi ken kepeken elen pi ilo SvelteKit lon ilo [Markdown](https://en.wikipedia.org/wiki/Markdown). o lukin e ni:
+sitelen la, mi kepeken ilo [mdsvex](https://mdsvex.com/). ni la, mi ken kepeken ilo Svelte lon ilo [Markdown](https://en.wikipedia.org/wiki/Markdown). o lukin e ni:
 
 <Nanpa />
 
-sina ken ante e nanpa ni! ni li tan elen pi ilo SvelteKit!
+sina ken ante e nanpa ni! ni li tan ilo Svelte!
+
+sitelen pona la, mi kepeken sitelen pi [linja lipamanka](https://lipamanka.gay/linjamanka). lukin pi sitelen ni li pona a tawa mi.
 
 ## lon seme?
 

@@ -1,7 +1,7 @@
 ---
 title: nimi ta
 date: 2023-02-25
-description: nimi ta li pona mute tawa mi.
+description: nimi ta li ken pona.
 ---
 
 mi kama sona e nimi &laquo;ta&raquo; lon **kama sona**. nimi ni li kama pali tan **pilin Powa**. tenpo ni<sup>1</sup> la, mi pilin e ni: a, nimi ni li nasa mute a. taso, mi lukin mute e nimi ta la, ona li kama pona pona tawa mi.
@@ -112,4 +112,5 @@ nasin pi nimi &laquo;ta&raquo; li pona. nasin tu taso li lon. ale li ken kama so
 
 ---
 
-<sup>1</sup> mi wile kepeken ala nimi &laquo;tenpo ni&raquo; tawa tenpo lon. nimi lon tenpo wan ni li sama &laquo;tenpo pi lukin mi&raquo;.
+<sup>1</sup> mi wile kepeken ala nimi &laquo;tenpo ni&raquo; tawa tenpo lon. nimi
+lon tenpo wan ni li sama &laquo;tenpo pi lukin mi&raquo;.
