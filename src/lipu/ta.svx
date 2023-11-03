@@ -4,7 +4,7 @@ date: 2023-02-25
 description: nimi ta li ken pona.
 ---
 
-mi kama sona e nimi &laquo;ta&raquo; lon **kama sona**. nimi ni li kama pali tan **pilin Powa**. tenpo ni<sup>1</sup> la, mi pilin e ni: a, nimi ni li nasa mute a. taso, mi lukin mute e nimi ta la, ona li kama pona pona tawa mi.
+mi kama sona e nimi &laquo;ta&raquo; lon **kama sona**. nimi ni li kama pali tan **pilin Powa**. tenpo ni la, mi pilin e ni: a, nimi ni li nasa mute a. taso, mi lukin mute e nimi ta la, ona li kama pona pona tawa mi.
 
 taso, mi wile toki e pona lon nimi &laquo;ta&raquo; la, mi wile toki e kon tawa sina. mi wile e ni: sina lukin e lipu ni la, sina kama sona kepeken nimi &laquo;ta&raquo; lon tenpo poka!
 
@@ -109,8 +109,3 @@ toki Inli la, ni li sama &laquo;_the bird began to be able to say that it believ
 ### ona li pona
 
 nasin pi nimi &laquo;ta&raquo; li pona. nasin tu taso li lon. ale li ken kama sona kepeken nimi &laquo;ta&raquo; lon tenpo lili.
-
----
-
-<sup>1</sup> mi wile kepeken ala nimi &laquo;tenpo ni&raquo; tawa tenpo lon. nimi
-lon tenpo wan ni li sama &laquo;tenpo pi lukin mi&raquo;.
