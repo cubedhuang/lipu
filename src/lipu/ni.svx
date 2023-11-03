@@ -10,11 +10,11 @@ toki! lipu ni li lipu nanpa wan lon kulupu lipu mi. kama la, mi pali e lipu sin!
 
 ## tan seme?
 
-mi wile toki lon toki pona mute la, mi pali e ni. mi wile toki e ijo pi toki pona, e ijo mi, e ijo ante la, mi ken pana e ni tawa lipu!
+mi wile toki mute lon toki pona la, mi pali e ni. mi wile toki e ijo pi toki pona, e ijo mi, e ijo ante la, mi ken pana e ni tawa lipu!
 
 ## kepeken seme?
 
-lipu ni li kepeken ilo [Svelte](https://svelte.dev/) kepeken ilo [SvelteKit](https://kit.svelte.dev/). ilo ni tu li pali e poki pi kulupu lipu. mi kepeken ni la, mi e wile tenpo lili tawa sitelen.
+lipu ni li kepeken ilo [Svelte](https://svelte.dev/) kepeken ilo [SvelteKit](https://kit.svelte.dev/). ilo ni tu li pali e poki pi kulupu lipu. mi kepeken ni la, mi wile e tenpo lili tawa sitelen.
 
 kin, mi kepeken ilo [Tailwind CSS](https://tailwindcss.com/) tawa lukin. mi kepeken ni la, mi ken pona e lukin pi lipu ni.
 
@@ -28,4 +28,4 @@ sitelen pona la, mi kepeken sitelen pi [linja lipamanka](https://lipamanka.gay/l
 
 ## lon seme?
 
-jan ale li ken lukin e sitelen ilo pi lipu ni ale lon ma [GitHub](https://github.com/cubedhuang/lipu). mi pana e sitelen ilo ni tawa ilo [Cloudflare](https://www.cloudflare.com/). ilo ni li ken pana e lipu pona tawa jan ale!
+jan ale li ken lukin e sitelen tan pi lipu ni lon ma [GitHub](https://github.com/cubedhuang/lipu). mi pana e sitelen ilo ni tawa ilo [Cloudflare](https://www.cloudflare.com/). ilo ni li ken pana e lipu pona tawa jan ale!
