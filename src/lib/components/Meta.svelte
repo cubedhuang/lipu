@@ -8,12 +8,12 @@
 	export let date = undefined;
 
 	/** @type {boolean} */
-	export let draft = false;
+	export let hidden = false;
 </script>
 
 <svelte:head>
 	<title>
-		{draft ? 'pini ala | ' : ''}
+		{hidden ? '(lipu len) ' : ''}
 		{title}
 	</title>
 	<meta name="og:title" content={title} />

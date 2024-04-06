@@ -6,26 +6,26 @@ description: lipu ni li lipu nanpa wan lon kulupu lipu mi.
 
 <script lang="ts">import Nanpa from '$lib/components/Nanpa.svelte';</script>
 
-toki! lipu ni li lipu nanpa wan lon kulupu lipu mi. kama la, mi pali e lipu sin! lipu ni la, mi toki e ijo pi kulupu lipu ni.
+lipu ni li lipu nanpa wan pi kulupu lipu mi. kama la, mi pali e lipu sin! lipu ni la, mi toki e kulupu ni.
 
 ## tan seme?
 
-mi wile toki mute lon toki pona la, mi pali e ni. mi wile toki e ijo pi toki pona, e ijo mi, e ijo ante la, mi ken pana e ni tawa lipu!
+mi wile toki pona lon mute la, mi pali e ni. mi wile toki e toki pona, e mi, e ante la, mi ken pana e toki tawa lipu!
 
 ## kepeken seme?
 
-lipu ni li kepeken ilo [Svelte](https://svelte.dev/) kepeken ilo [SvelteKit](https://kit.svelte.dev/). ilo ni tu li pali e poki pi kulupu lipu. mi kepeken ni la, mi wile e tenpo lili tawa sitelen.
+lipu ni li kepeken ilo [Svelte](https://svelte.dev/) li kepeken ilo [SvelteKit](https://kit.svelte.dev/). ilo ni tu li poki e kulupu lipu. ni la, mi wile e tenpo lili lon sitelen li ken sitelen li pana ala e tenpo lon ijo pi sitelen ala.
 
-kin, mi kepeken ilo [Tailwind CSS](https://tailwindcss.com/) tawa lukin. mi kepeken ni la, mi ken pona e lukin pi lipu ni.
+kin, mi kepeken ilo [Tailwind CSS](https://tailwindcss.com/) tawa lukin. ni la mi pona e lukin pi lipu ni.
 
-sitelen la, mi kepeken ilo [mdsvex](https://mdsvex.com/). ni la, mi ken kepeken ilo Svelte lon ilo [Markdown](https://en.wikipedia.org/wiki/Markdown). o lukin e ni:
+sitelen la, mi kepeken ilo [mdsvex](https://mdsvex.com/). ni la, mi ken kepeken ilo Svelte lon ilo [Markdown](https://en.wikipedia.org/wiki/Markdown). o lukin e anpa.
 
 <Nanpa />
 
-sina ken ante e nanpa ni! ni li tan ilo Svelte!
+sina ken ante e nanpa ni! ilo ni li kepeken ilo Svelte. ante pi lipu ni li kepeken ilo Markdown. ni li pona e tenpo pi pali lipu.
 
-sitelen pona la, mi kepeken sitelen pi [linja lipamanka](https://lipamanka.gay/linjamanka). lukin pi sitelen ni li pona a tawa mi.
+sitelen pona la, mi kepeken [linja lipamanka](https://lipamanka.gay/linjamanka). lukin ona li pona a tawa mi.
 
 ## lon seme?
 
-jan ale li ken lukin e sitelen tan pi lipu ni lon ma [GitHub](https://github.com/cubedhuang/lipu). mi pana e sitelen ilo ni tawa ilo [Cloudflare](https://www.cloudflare.com/). ilo ni li ken pana e lipu pona tawa jan ale!
+ale li ken lukin e toki ilo pi lipu ni lon ma [GitHub](https://github.com/cubedhuang/lipu). mi pana e ni tawa ilo [Cloudflare](https://www.cloudflare.com/) la ona li pana e lipu tawa ma ale!

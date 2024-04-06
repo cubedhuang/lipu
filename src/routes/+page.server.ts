@@ -16,7 +16,7 @@ export const load = (async () => {
 				...post.metadata
 			} as LipuData;
 		})
-	).then(lipu => lipu.filter(post => !post.draft));
+	).then(lipu => lipu.filter(post => !post.hidden));
 
 	return {
 		lipu: lipu.sort(

@@ -1,0 +1,62 @@
+---
+title: toki ilo
+date: 2023-11-3
+description: 'mi pali e toki ilo lon toki pona.'
+hidden: true
+---
+
+mi wile pali e toki ilo lon toki pona. mi wile e ni: toki ilo li lon toki pona li pona a.
+
+toki ilo li pona la, toki ilo o seme? mi la, ni o lon.
+
+1. toki ilo o pona lukin tawa mi.
+2. toki ilo o lili.
+3. toki ilo o sama toki pona.
+4. toki ilo o sama toki ilo ante.
+
+toki ilo li lili li sama toki pona la, jan pi toki pona li ken kama sona e ona lon tenpo lili. ni li pona tawa mi.
+
+toki ilo li sama toki ilo ante la, jan pi toki ilo kin li ken kama sona e toki ni kepeken wawa lili. ni kin li pona.
+
+sama pi toki ilo ante en sama pi toki pona li ken wile e lukin ante tawa toki ilo ni. ni la, sama pi toki pona o suli.
+
+toki pona la, nanpa li ike. taso, toki ilo la, nanpa li lon ale. ni la, nanpa li lon mute lon toki ilo ni.
+
+## poki
+
+poki o kama lon poka nimi la nimi li ken toki e poki.
+
+```
+20 o lon poki A.
+o toki e poki A.
+```
+
+jan kepeken pali ni la, ilo o toki e ni:
+
+```
+20
+```
+
+nimi poki o suli. nimi `suli` li ken ala. nimi `Suli` li ken.
+
+## mute
+
+```
+// ni li nasin Piponasi.
+
+0 o lon poki A.
+1 o lon poki E.
+
+poki A < 100 la o ni {
+	o toki e poki A.
+
+    poki A + poki E o lon poki Kama.
+
+    poki E o lon poki A.
+    poki Kama o lon poki E.
+
+}
+
+// toki ni o pali e ni:
+// 0 1 1 2 3 5 8 13 21 34 55 89
+```

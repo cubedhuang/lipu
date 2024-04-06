@@ -2,6 +2,7 @@
 title: nimi ta
 date: 2023-02-25
 description: nimi ta li ken pona.
+hidden: true
 ---
 
 mi kama sona e nimi &laquo;ta&raquo; lon **kama sona**. nimi ni li kama pali tan **pilin Powa**. tenpo ni la, mi pilin e ni: a, nimi ni li nasa mute a. taso, mi lukin mute e nimi ta la, ona li kama pona pona tawa mi.

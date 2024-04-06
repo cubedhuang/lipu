@@ -1,15 +1,20 @@
 ---
 title: nimi meso
 date: 2023-4-20
-description: 'kepeken pi nimi meso li ike tawa mi.'
+description: 'nimi meso li ike tawa mi.'
+hidden: true
 ---
 
-jan mute li toki e ni:
+jan mute li kepeken nimi Meso. ona li toki e ni.
 
-> nimi &laquo;meso&raquo; li pona tawa mi! ijo li pona anu ike la, kon pi nimi &laquo;meso&raquo; li pona!
+> ijo li pona anu ike la, nimi Meso li ken toki e ona.
 
-jan li pali e nimi sin li kepeken ona la, jan li toki e ni: kon pi nimi ni li suli en kepeken pi nimi ni li pona a! taso, mi pilin e ni: jan li ike ta pali e kon pi nimi &laquo;meso&raquo;.
+nasin ni li ike tawa mi. mi toki e tan pilin.
 
-jan li pilin ala tan ijo wan la, ona li ken toki insa e ni: &laquo;nn, ijo ni li meso&raquo;. ni li toki pona ala!
+## ona li pini e toki
 
-mi pilin e ni: toki pona li pona tan ni: jan li wile toki e kon ijo la, ona ken kepeken nimi lili taso. nimi &laquo;meso&raquo; li lon la, jan li pini e toki lon ijo ni li toki pona ala.
+jan li pilin ala lon ijo wan la, ona li ken toki e ni: &laquo;a, ijo ni li meso tawa mi. ona li suli ala.&raquo; ni li nasin ike pi toki pona!
+
+nimi &laquo;meso&raquo; li lon la, jan li pini e toki insa lon ijo ni li awen ala toki.
+
+nimi meso li lon ala la, ona li ken toki e ni: &laquo;ona li pona ala tawa mi li ike ala tawa mi.&raquo; ona li ken toki e tan pilin. &laquo;sona mi pi ijo ni li pona ala la ni.&raquo; &laquo;ijo ni li suli ala tawa mi la mi wile ala toki insa lon ona.&raquo;

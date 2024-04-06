@@ -10,15 +10,15 @@ export function formatDate(value: string) {
 export const getSlugFromPath = (path: string) =>
 	path.match(/([\w-]+)\.(svelte\.md|md|svx)/i)?.[1] ?? null;
 
-export interface MdsvexFile {
+export type MdsvexFile = {
 	default: typeof import('svelte').SvelteComponent;
 	metadata: Record<string, string>;
-}
+};
 
-export interface LipuData {
+export type LipuData = {
 	slug: string;
 	title: string;
 	date: string;
 	description: string;
-	draft?: boolean;
-}
+	hidden?: boolean;
+};
