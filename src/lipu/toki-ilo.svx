@@ -1,6 +1,6 @@
 ---
 title: toki ilo
-date: 2024-4-19
+date: 2024-04-19
 description: 'mi toki e toki ilo pi toki pona.'
 ---
 
