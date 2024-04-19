@@ -74,13 +74,22 @@ nanpa 0o3750		// -> 2024
 
 ## nasin
 
-toki ilo la, nimi `nasin` li nimi suli a.
+toki ilo la, nimi `nasin` li nimi suli a. ona li poki li kepeken nasin ante.
 
-nasin ilo tu li lon. **nasin lukin** li lukin e sona insa li pana e sona tawa insa ilo taso. nasin lukin li ken kepeken nasin lukin ante, li ken ala kepeken nasin pali. **nasin pali** li ken kepeken nasin lukin, li ken pana e sona e toki tawa jan.
+nasin ilo tu li lon. **nasin lili** li ken lukin e sona li ken pana e sona. nasin lili li ken kepeken nasin lili ante, li ken ala kepeken nasin suli. **nasin suli** li ken kepeken nasin lili. nasin suli wan taso li lon.
 
-### nasin lukin
+### nasin suli
 
-open pi lipu toki la, nasin lukin li ken lon. nasin lukin li moku e sona ijo li pana e sona pi ijo ante. toki pini la, ni li sama nasin Piponasi.
+open pi nasin suli la, nimi `nasin ni la` o lon. jan li kepeken toki la, ona li kepeken nasin suli. nasin suli ni li ken kepeken nasin lili.
+
+```
+nasin ni la
+	o toki "ale o, mi toki ilo!".
+```
+
+### nasin lili
+
+nasin lili li ken moku e sona ijo li ken pana e sona pi ijo ante. toki pini la, ona li sama nasin Piponasi.
 
 ```
 nasin Piponasi li lukin e nanpa 0
@@ -96,13 +105,4 @@ nasin Piponasi li lukin e nanpa A
 	la nasin Piponasi li lukin e nanpa I li pana e nanpa U
 	la nasin wan li lukin e nanpa O e nanpa U li pana e nanpa Pana
 	la o pana e nanpa Pana.
-```
-
-### nasin pali
-
-toki ilo mi la, nasin pali li lon anpa pi nasin lukin. nasin pali la, sina ken toki tawa jan pi kepeken ilo. open ona la, nimi `nasin ni la` o lon.
-
-```
-nasin ni la
-	o toki "ale o, mi toki ilo!".
 ```
