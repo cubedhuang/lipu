@@ -14,9 +14,9 @@ mi wile pali e toki ilo pi toki pona. toki ilo o kepeken toki pona o pona. toki 
 
 toki ilo li lili li sama toki pona la, jan ilo pi toki pona li ken kama sona e ona lon tenpo lili.
 
-## lipu toki lili
+## toki wan lili
 
-ni li lipu toki lili pi toki ilo la sina ken lukin li ken kama sona e lili pi toki mi.
+ni li toki ilo lili la sina ken lukin li ken kama sona e lili pi toki mi.
 
 ```
 nasin Piponasi li lukin e nanpa 0
