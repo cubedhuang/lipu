@@ -20,7 +20,7 @@ export function highlightPona(hljs) {
 			{
 				scope: 'number',
 				// 'ale mute luka tu wan ala' only after 'nanpa'
-				begin: /\b(?<=nanpa)\s+((ale|mute|luka|tu|wan|ala)\s+)+/,
+				begin: /\b(?<=nanpa)(\s+(ale|mute|luka|tu|wan|ala))+/,
 				relevance: 0
 			},
 			{
