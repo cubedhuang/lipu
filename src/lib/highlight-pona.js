@@ -9,7 +9,6 @@ export function highlightPona(hljs) {
 			type: 'nasin toki nanpa ken',
 			literal: ['lon', 'lon ala'],
 			separator: 'la li e pi o anu en'
-			// number: 'ale mute luka tu wan ala'
 		},
 		contains: [
 			hljs.C_LINE_COMMENT_MODE,
@@ -20,7 +19,7 @@ export function highlightPona(hljs) {
 			{
 				scope: 'number',
 				// 'ale mute luka tu wan ala' only after 'nanpa'
-				begin: /\b(?<=nanpa)(\s+(ale|mute|luka|tu|wan|ala))+/,
+				begin: /\b(?<=nanpa)(\s+(ale|mute|luka|tu|wan|ala))+\b/,
 				relevance: 0
 			},
 			{
