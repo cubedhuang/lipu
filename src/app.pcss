@@ -34,4 +34,36 @@
 		/* act like a normal paragraph despite larger size */
 		@apply my-6;
 	}
+
+	.hljs {
+		.hljs-comment,
+		.hljs-quote {
+			@apply text-gray-500 italic;
+		}
+
+		.hljs-keyword {
+			@apply text-purple-300;
+		}
+
+		.hljs-type,
+		.hljs-literal {
+			@apply text-blue-300;
+		}
+
+		.hljs-title {
+			@apply text-red-200;
+		}
+
+		.hljs-number {
+			@apply text-green-200;
+		}
+
+		.hljs-string {
+			@apply text-orange-300;
+		}
+
+		.hljs-separator {
+			@apply text-gray-500;
+		}
+	}
 }

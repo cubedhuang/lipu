@@ -18,7 +18,7 @@ toki ilo li lili li sama toki pona la, jan ilo pi toki pona li ken kama sona e o
 
 ni li toki ilo lili la sina ken lukin li ken kama sona e lili pi toki mi.
 
-```
+```pona
 nasin Piponasi li lukin e nanpa 0
 	la o pana e nanpa 0.
 
@@ -35,7 +35,7 @@ nasin Piponasi li lukin e nanpa A
 
 nasin ni
 	la o toki "ale o, mi toki ilo!"
-	la nasin Piponasi o lukin e nanpa 10 o pana e nanpa Suli
+	la nasin Piponasi o lukin e nanpa luka luka o pana e nanpa Suli
 	la o toki e nanpa Suli.
 ```
 
@@ -52,31 +52,30 @@ sina lukin e ale pi lipu ni la, sina sona e nasin.
 
 sina wile ilo e nanpa la, o kepeken nimi `nanpa`. nanpa li ken lon kepeken nasin tu. nanpa wan la, sina ken kepeken [nasin nanpa pona](https://sona.pona.la/wiki/nasin_nanpa_pona).
 
-```
+```pona
 nanpa mute ale mute tu tu // -> 2024
 ```
 
 o sona. sina ken ala kepeken nasin nanpa pona pi sitelen lili. ni li **ken ala:**
 
-```
+```pona
 nanpa MAMTT
 // -> ken ala. ni li alasa e nanpa pi nimi MAMTT lon sona insa ilo.
 ```
 
 nasin nanpa tu la, sina ken kepeken nanpa pi nasin Alapija, li ken kepeken nasin ilo ante ni.
 
-```
+```pona
 nanpa 2024			// -> 2024
 nanpa 0x7E8			// -> 2024
 nanpa 0b11111101000	// -> 2024
-nanpa 0o3750		// -> 2024
 ```
 
 ## nimi
 
 sina wile nimi e ijo la, o suli e sitelen nanpa wan.
 
-```
+```pona
 nasin ni
 	la nanpa Wan o kama nanpa 1
 	la o toki e nanpa Wan.
@@ -85,7 +84,7 @@ nasin ni
 
 poki nimi li ken ante.
 
-```
+```pona
 nasin ni
 	la nanpa Ante o kama nanpa wan
 	la o toki e nanpa Ante
@@ -99,7 +98,7 @@ nasin ni
 
 ijo ken li ken lon li ken lon ala.
 
-```
+```pona
 nasin ni
 	la ken A o kama lon
 	la o toki e ken A.
@@ -116,7 +115,7 @@ nasin ilo tu li lon. **nasin lili** li ken lukin e sona li ken pana e sona. nasi
 
 open pi nasin suli la, nimi `nasin ni` o lon. jan li kepeken toki la, ona li kepeken nasin suli. nasin suli ni li ken kepeken nasin lili.
 
-```
+```pona
 nasin ni
 	la o toki "ale o, mi toki ilo!".
 ```
@@ -125,7 +124,7 @@ nasin ni
 
 nasin lili li ken moku e sona ijo li ken pana e sona pi ijo ante. toki pini la, ona li sama nasin Piponasi.
 
-```
+```pona
 nasin Piponasi li lukin e nanpa 0
 	la o pana e nanpa 0.
 
@@ -151,7 +150,7 @@ sina pali e nasin lili la, nasin lukin mute li ken, sama toki ni. ni la, ilo li 
 
 nasin lili la nasin lukin mute li ken. ni la, sina ken tu e nasin.
 
-```
+```pona
 nasin Lukin li lukin e lon
 	la o toki "sina toki e lon!".
 
@@ -168,7 +167,7 @@ nasin ni
 
 nasin lili insa li lon toki ni.
 
-```
+```pona
 nasin wan li lukin e nanpa luka e nanpa mute
 // -> 25
 ```
