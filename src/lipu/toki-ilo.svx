@@ -26,16 +26,16 @@ nasin Piponasi li lukin e nanpa 1
 	la o pana e nanpa 1.
 
 nasin Piponasi li lukin e nanpa A
-	la nasin weka li lukin e nanpa A e nanpa 1 li pana e nanpa E
-	la nasin weka li lukin e nanpa A e nanpa 2 li pana e nanpa I
-	la nasin Piponasi li lukin e nanpa E li pana e nanpa O
-	la nasin Piponasi li lukin e nanpa I li pana e nanpa U
-	la nasin wan li lukin e nanpa O e nanpa U li pana e nanpa Pana
+	la nasin weka o lukin e nanpa A e nanpa 1 o pana e nanpa E
+	la nasin weka o lukin e nanpa A e nanpa 2 o pana e nanpa I
+	la nasin Piponasi o lukin e nanpa E o pana e nanpa O
+	la nasin Piponasi o lukin e nanpa I o pana e nanpa U
+	la nasin wan o lukin e nanpa O e nanpa U o pana e nanpa Pana
 	la o pana e nanpa Pana.
 
 nasin ni
 	la o toki "ale o, mi toki ilo!"
-	la nasin Piponasi li lukin e nanpa 10 li pana e nanpa Suli
+	la nasin Piponasi o lukin e nanpa 10 o pana e nanpa Suli
 	la o toki e nanpa Suli.
 ```
 
@@ -72,19 +72,53 @@ nanpa 0b11111101000	// -> 2024
 nanpa 0o3750		// -> 2024
 ```
 
+## nimi
+
+sina wile nimi e ijo la, o suli e sitelen nanpa wan.
+
+```
+nasin ni
+	la nanpa Wan o kama nanpa 1
+	la o toki e nanpa Wan.
+	// -> 1
+```
+
+poki nimi li ken ante.
+
+```
+nasin ni
+	la nanpa Ante o kama nanpa wan
+	la o toki e nanpa Ante
+	// -> 1
+	la nanpa Ante o kama nanpa tu
+	la o toki e nanpa Ante.
+	// -> 2
+```
+
+## ken
+
+ijo ken li ken lon li ken lon ala.
+
+```
+nasin ni
+	la ken A o kama lon
+	la o toki e ken A.
+	// -> lon
+```
+
 ## nasin
 
-toki ilo la, nimi `nasin` li nimi suli a. ona li poki li kepeken nasin ante.
+toki ilo la, nasin li suli a. ona li poki e lawa ilo.
 
 nasin ilo tu li lon. **nasin lili** li ken lukin e sona li ken pana e sona. nasin lili li ken kepeken nasin lili ante, li ken ala kepeken nasin suli. **nasin suli** li ken kepeken nasin lili. nasin suli wan taso li lon.
 
 ### nasin suli
 
-open pi nasin suli la, nimi `nasin ni la` o lon. jan li kepeken toki la, ona li kepeken nasin suli. nasin suli ni li ken kepeken nasin lili.
+open pi nasin suli la, nimi `nasin ni` o lon. jan li kepeken toki la, ona li kepeken nasin suli. nasin suli ni li ken kepeken nasin lili.
 
 ```
-nasin ni la
-	o toki "ale o, mi toki ilo!".
+nasin ni
+	la o toki "ale o, mi toki ilo!".
 ```
 
 ### nasin lili
@@ -99,10 +133,52 @@ nasin Piponasi li lukin e nanpa 1
 	la o pana e nanpa 1.
 
 nasin Piponasi li lukin e nanpa A
-	la nasin weka li lukin e nanpa A e nanpa 1 li pana e nanpa E
-	la nasin weka li lukin e nanpa A e nanpa 2 li pana e nanpa I
-	la nasin Piponasi li lukin e nanpa E li pana e nanpa O
-	la nasin Piponasi li lukin e nanpa I li pana e nanpa U
-	la nasin wan li lukin e nanpa O e nanpa U li pana e nanpa Pana
+	la nasin weka o lukin e nanpa A e nanpa 1 o pana e nanpa E
+	la nasin weka o lukin e nanpa A e nanpa 2 o pana e nanpa I
+	la nasin Piponasi o lukin e nanpa E o pana e nanpa O
+	la nasin Piponasi o lukin e nanpa I o pana e nanpa U
+	la nasin wan o lukin e nanpa O e nanpa U o pana e nanpa Pana
 	la o pana e nanpa Pana.
 ```
+
+sina pali e nasin lili la, nasin lukin mute li ken, sama toki ni. ni la, ilo li kepeken nasin ni seme?
+
+1. ilo li lukin e nasin lukin nanpa wan. ona li ken la, ilo li kepeken nasin ni. (nasin Piponasi li lukin e nanpa `0` la ni.)
+2. ilo li lukin e nasin lukin nanpa tu. ona li ken la, ilo li kepeken nasin ni. (nasin Piponasi li lukin e nanpa `1` la ni.)
+3. ilo li awen alasa lon ken ale nasin, li kepeken nasin ken nanpa wan. (nasin Piponasi li lukin ala e nanpa `0`, li lukin ala e nanpa `1`, li lukin e nanpa la ona li kepeken nasin ni nanpa tu wan. ante la, ilo li pini ike tan ni: nasin ala li ken.)
+
+## tu ken
+
+nasin lili la nasin lukin mute li ken. ni la, sina ken tu e nasin.
+
+```
+nasin Lukin li lukin e lon
+	la o toki "sina toki e lon!".
+
+nasin Lukin li lukin e lon ala
+	la o toki "toki sina li lon ala...".
+
+nasin ni
+	la ken K o kama lon
+	la nasin Lukin o lukin e ken K.
+	// -> sina toki e lon!
+```
+
+## nasin insa
+
+nasin lili insa li lon toki ni.
+
+```
+nasin wan li lukin e nanpa luka e nanpa mute
+// -> 25
+```
+
+toki ni la, nimi "wan" li seme? ona li _nasin insa_ wan pi toki ilo mi. nasin seme ante li lon?
+
+| nasin                           | pana         |
+| ------------------------------- | ------------ |
+| nasin wan (nanpa A, nanpa E)    | A + E        |
+| nasin wan (toki A, toki E)      | A + E        |
+| nasin weka (nanpa A, nanpa E)   | A - E        |
+| nasin kulupu (nanpa A, nanpa E) | A &times; E  |
+| nasin kipisi (nanpa A, nanpa E) | A &divide; E |
