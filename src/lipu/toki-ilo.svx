@@ -26,12 +26,12 @@ nasin Piponasi li lukin e nanpa 1
 	la o pana e nanpa 1.
 
 nasin Piponasi li lukin e nanpa A
-	la o weka e nanpa 1 tan nanpa A tawa nanpa E
-	la o weka e nanpa 2 tan nanpa A tawa nanpa I
-	la o nasin Piponasi e nanpa E tawa nanpa O
-	la o nasin Piponasi e nanpa I tawa nanpa U
-	la o wan e nanpa O e nanpa U tawa nanpa Pana
-	la o pana e nanpa Pana.
+	la o weka e nanpa 1 tan nanpa A
+	la o nasin Piponasi e ona tawa nanpa E
+	la o weka e nanpa 2 tan nanpa A
+	la o nasin Piponasi e ona tawa nanpa I
+	la o wan e nanpa E e nanpa I
+	la o pana e ona.
 
 nasin ni
 	la o toki "ale o, mi toki ilo!"
@@ -214,12 +214,12 @@ nasin Piponasi li lukin e nanpa 1
 	la o pana e nanpa 1.
 
 nasin Piponasi li lukin e nanpa A
-	la o weka e nanpa 1 tan nanpa A tawa nanpa E
-	la o weka e nanpa 2 tan nanpa A tawa nanpa I
-	la o nasin Piponasi e nanpa E tawa nanpa O
-	la o nasin Piponasi e nanpa I tawa nanpa U
-	la o wan e nanpa O e nanpa U tawa nanpa Pana
-	la o pana e nanpa Pana.
+	la o weka e nanpa 1 tan nanpa A
+	la o nasin Piponasi e ona tawa nanpa E
+	la o weka e nanpa 2 tan nanpa A
+	la o nasin Piponasi e ona tawa nanpa I
+	la o wan e nanpa E e nanpa I
+	la o pana e ona.
 ```
 
 sina pali e nasin lili la, nasin lukin mute li ken, sama toki ni. ni la, ilo li kepeken nasin ni seme?
