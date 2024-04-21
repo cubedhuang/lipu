@@ -4,8 +4,8 @@
 export function highlightPona(hljs) {
 	return {
 		keywords: {
-			keyword: 'lukin pana kama ni tawa ona wan weka sike kipisi',
-			type: 'nasin toki nanpa ken',
+			keyword: 'lukin pana kama ni tawa wan weka sike kipisi',
+			type: 'nasin toki nanpa ken ona',
 			literal: 'lon',
 			separator: 'la li e pi o anu en tan'
 		},
