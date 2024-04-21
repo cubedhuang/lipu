@@ -2,17 +2,15 @@
  * @type {import("highlight.js").LanguageFn}
  */
 export function highlightPona(hljs) {
-	console.log('highlight-pona.js');
 	return {
 		keywords: {
-			keyword: 'lukin pana kama ni',
+			keyword: 'lukin pana kama ni tawa ona wan weka sike kipisi',
 			type: 'nasin toki nanpa ken',
-			literal: ['lon', 'lon ala'],
-			separator: 'la li e pi o anu en'
+			literal: 'lon',
+			separator: 'la li e pi o anu en tan'
 		},
 		contains: [
 			hljs.C_LINE_COMMENT_MODE,
-			hljs.APOS_STRING_MODE,
 			hljs.QUOTE_STRING_MODE,
 			hljs.BINARY_NUMBER_MODE,
 			hljs.C_NUMBER_MODE,
@@ -24,7 +22,7 @@ export function highlightPona(hljs) {
 			},
 			{
 				scope: 'title',
-				begin: /\b[A-Z]\w*/,
+				begin: /\b[A-Z][a-zA-Z0-9_\-'\.]*/,
 				relevance: 0
 			}
 		]
