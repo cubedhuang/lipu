@@ -129,6 +129,26 @@ nanpa Ijo'Pi'Nimi'Mute
 nanpa akesi
 ```
 
+### ona
+
+ken suli la sina wile ala nimi e ijo ale. ni la o kepeken nimi `ona`. nimi `ona` li sama ijo pana pi toki pini nanpa wan. toki ni tu li sama:
+
+```pona
+nasin ni
+	la o wan e nanpa wan e nanpa tu tawa nanpa N
+	la o toki e nanpa N // -> 3
+	la o nasin Piponasi e nanpa 10 tawa nanpa N
+	la o toki e nanpa N. // -> 55
+```
+
+```pona
+nasin ni
+	la o wan e nanpa wan e nanpa tu
+	la o toki e ona // -> 3
+	la o nasin Piponasi e nanpa 3
+	la o toki e ona. // -> 55
+```
+
 ## toki
 
 sina wile ilo e toki la, o kepeken nimi `toki`.
@@ -165,26 +185,6 @@ nasin ni
 	la ken A o kama lon
 	la o toki e ken A.
 	// -> lon
-```
-
-## ona
-
-sina wile ala nimi e ijo la, o kepeken nimi `ona`. nimi `ona` li sama ijo pana pi toki pini nanpa wan. toki ni tu li sama:
-
-```pona
-nasin ni
-	la o wan e nanpa wan e nanpa tu tawa nanpa N
-	la o toki e nanpa N // -> 3
-	la o nasin Piponasi e nanpa 10 tawa nanpa N
-	la o toki e nanpa N. // -> 55
-```
-
-```pona
-nasin ni
-	la o wan e nanpa wan e nanpa tu
-	la o toki e ona // -> 3
-	la o nasin Piponasi e nanpa 3
-	la o toki e ona. // -> 55
 ```
 
 ## nasin
