@@ -22,7 +22,7 @@ export function highlightPona(hljs) {
 			},
 			{
 				scope: 'title',
-				begin: /\b[A-Z][a-zA-Z0-9_\-'\.]*/,
+				begin: /\b[A-Z][a-zA-Z0-9_\-']*/,
 				relevance: 0
 			}
 		]

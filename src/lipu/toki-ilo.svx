@@ -37,7 +37,6 @@ nasin ni
 	la o toki "ale o, mi toki ilo!"
 	la o nasin Piponasi e nanpa luka luka
 	la o toki e ona.
-	// -> 55
 ```
 
 jan li kepeken toki ni la, ilo o pana e toki ni:
@@ -110,7 +109,7 @@ nasin ni
 	// -> 2
 ```
 
-nimi mute li ken lon. taso, ona ale la sitelen nanpa wan o suli. sitelen `_` en sitelen `-` en sitelen `.` en sitelen `'` li ken lon nimi.
+nimi mute li ken lon. taso, ona ale la sitelen nanpa wan o suli. sitelen `_` en sitelen `-` en sitelen `'` li ken lon nimi.
 
 ```pona
 // pona
