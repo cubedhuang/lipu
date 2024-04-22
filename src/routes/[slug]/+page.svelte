@@ -24,6 +24,6 @@
 
 <style lang="postcss">
 	.prose :global(code:not(:where(pre code))) {
-		@apply before:content-none after:content-none text-green-600 text-base font-normal;
+		@apply before:content-none after:content-none text-green-600 text-base;
 	}
 </style>

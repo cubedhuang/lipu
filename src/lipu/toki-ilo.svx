@@ -76,14 +76,27 @@ nanpa 0b11111101000	// -> 2024
 nasin nanpa mute li lon li ken lukin e nanpa tu li pana e nanpa sin.
 
 ```pona
+// nasin wan
 o wan e nanpa mute e nanpa luka tawa nanpa Pana
-// nanpa Pana li kama nanpa 25
+// -> 25
+o wan e nanpa luka e nanpa luka e nanpa luka tawa nanpa Pana
+// -> 15
+
+// nasin weka
 o weka e nanpa luka tan nanpa mute tawa nanpa Pana
-// nanpa Pana li kama nanpa 15
-o sike pi nanpa mute e nanpa luka tawa nanpa Pana
-// nanpa Pana li kama nanpa 100
+// -> 15
+o weka e nanpa luka e nanpa luka tan nanpa mute tawa nanpa Pana
+// -> 25
+
+// nasin pi wan sike
+o wan sike e nanpa mute e nanpa luka tawa nanpa Pana
+// -> 100
+o wan sike e nanpa luka e nanpa luka e nanpa luka tawa nanpa Pana
+// -> 125
+
+// nasin kipisi
 o kipisi pi nanpa luka e nanpa mute tawa nanpa Pana
-// nanpa Pana li kama nanpa 4
+// -> 4
 ```
 
 ## nimi
